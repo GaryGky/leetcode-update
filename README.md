@@ -15,3 +15,7 @@
 > 希望可以一直坚持刷下去！
 
 传送门：https://github.com/GaryGky/leetcode-update/blob/main/661%20%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8.md
+
+## 3.24: (easy) 数组双指针问题
+
+https://github.com/GaryGky/leetcode-update/blob/main/27%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md
