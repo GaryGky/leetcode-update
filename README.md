@@ -19,3 +19,7 @@
 ## 3.24: (easy) 数组双指针问题
 
 https://github.com/GaryGky/leetcode-update/blob/main/27%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md
+
+## 3.26 & 3.27: (hard) 字符串问题
+KMP问题 + 旋转字符串问题
+https://github.com/GaryGky/leetcode-update/blob/main/541%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B22.md
