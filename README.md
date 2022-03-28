@@ -23,3 +23,6 @@ https://github.com/GaryGky/leetcode-update/blob/main/27%20%E7%A7%BB%E9%99%A4%E5%
 ## 3.26 & 3.27: (hard) 字符串问题
 KMP问题 + 旋转字符串问题
 https://github.com/GaryGky/leetcode-update/blob/main/541%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B22.md
+
+## 3.28: (easy) 基本数据结构 栈和队列
+https://github.com/GaryGky/leetcode-update/blob/main/225%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md
