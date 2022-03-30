@@ -26,3 +26,7 @@ https://github.com/GaryGky/leetcode-update/blob/main/541%20%E5%8F%8D%E8%BD%AC%E5
 
 ## 3.28: (easy) 基本数据结构 栈和队列
 https://github.com/GaryGky/leetcode-update/blob/main/225%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md
+
+## 3.29: (medium) 双指针方法 & 栈和队列
+栈适合用于匹配问题: https://github.com/GaryGky/leetcode-update/blob/main/150%20%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md
+双指针法: https://github.com/GaryGky/leetcode-update/blob/main/2024%20%E8%80%83%E8%AF%95%E6%9C%80%E5%A4%A7%E5%9B%B0%E6%89%B0%E5%BA%A6.md
