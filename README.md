@@ -30,3 +30,11 @@ https://github.com/GaryGky/leetcode-update/blob/main/225%20%E7%94%A8%E9%98%9F%E5
 ## 3.29: (medium) 双指针方法 & 栈和队列
 栈适合用于匹配问题: https://github.com/GaryGky/leetcode-update/blob/main/150%20%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md
 双指针法: https://github.com/GaryGky/leetcode-update/blob/main/2024%20%E8%80%83%E8%AF%95%E6%9C%80%E5%A4%A7%E5%9B%B0%E6%89%B0%E5%BA%A6.md
+
+## 3.30 滑动窗口中最大元素（Hard: 单调队列）
+https://github.com/GaryGky/leetcode-update/blob/main/239%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md
+
+## 3.31 双指针（1984 / 1004）& 每日一题(easy: 728)
+https://github.com/GaryGky/leetcode-update/blob/main/1004%20%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md
+https://github.com/GaryGky/leetcode-update/blob/main/1984%20%E5%AD%A6%E7%94%9F%E5%88%86%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC.md
+https://github.com/GaryGky/leetcode-update/blob/main/728%20%E8%87%AA%E9%99%A4%E6%95%B0.md
