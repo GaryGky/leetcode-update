@@ -44,3 +44,6 @@ https://github.com/GaryGky/leetcode-update/blob/main/728%20%E8%87%AA%E9%99%A4%E6
 滑动窗口最大平均数：https://github.com/GaryGky/leetcode-update/commit/136ac618a35f5e2933b79f79cbd2b0e4203994eb#diff-b4c4c87409a0d7943a642bf097e93156997ed8e4c689cf2d021206b5260f5c69
 二倍对数组：https://github.com/GaryGky/leetcode-update/commit/136ac618a35f5e2933b79f79cbd2b0e4203994eb#diff-048d9a636dea4baa615b8135c7e943e9139afe736fc0465ded732e9cf78db841
 可获得的最大点数：https://github.com/GaryGky/leetcode-update/commit/136ac618a35f5e2933b79f79cbd2b0e4203994eb#diff-16bd95a11e7fb3408d82d50bb62cdb21bced4728b94680465c124bfc6a2508f6
+
+## 4.02 & 4.03
+树的遍历：https://github.com/GaryGky/leetcode-update/blob/main/%E6%A0%91/144%2094%20145%20102%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86%E6%96%B9%E5%BC%8F.md
