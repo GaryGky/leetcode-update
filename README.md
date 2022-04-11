@@ -51,3 +51,10 @@ https://github.com/GaryGky/leetcode-update/blob/main/728%20%E8%87%AA%E9%99%A4%E6
 ## 4.07
 
 太忙了最近（Final  + 实习），今天更新一下每日一题。
+
+## 4.11
+碎碎念 以后不更新链接了，感觉没啥必要。
+今天开始刷招商的训练营，看着挺简单的，不过都是一些高频题。拿个徽章也是好的。
+
+https://github.com/GaryGky/leetcode-update/blob/main/239%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.mdhui'z
+https://github.com/GaryGky/leetcode-update/blob/main/239%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md
