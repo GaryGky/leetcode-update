@@ -58,3 +58,6 @@ https://github.com/GaryGky/leetcode-update/blob/main/728%20%E8%87%AA%E9%99%A4%E6
 
 ## 4.12
 在CLB看到了绝美的夕阳🌇 || 收到了TikTok的Wellness Pack || 做好了下周要在TikTok的第一次分享GFS的PPT || 好了，我要去打羽毛球了，明天加油！
+
+## 4.19
+准备去Shopee领奖，第一次算法比赛Ending!
