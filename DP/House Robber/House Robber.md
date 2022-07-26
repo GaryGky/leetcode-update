@@ -65,3 +65,36 @@ class Solution {
 }
 ```
 
+### [337. House Robber III](https://leetcode.cn/problems/house-robber-iii/)
+
+DFS with two different situation:
+
+- Rob current node: then can only rob the current node's children's children.
+- Not Rob current node: then can rob the current node's children.
+
+```java
+class Solution {
+    HashMap<TreeNode, Integer> mem;
+    public int rob(TreeNode root) {
+        mem = new HashMap<>();
+        return dfs(root);
+    }
+
+    private int dfs(TreeNode root){
+        if(root == null) return 0;
+        if(mem.containsKey(root)) return mem.get(root);
+
+        // dont rob current node
+        int valNonCurrentNode = dfs(root.left) + dfs(root.right);
+        // rob current node
+        int valRobCurrentNode = 0;
+        if(root.left != null) valRobCurrentNode += dfs(root.left.left) + dfs(root.left.right);
+        if(root.right != null) valRobCurrentNode += dfs(root.right.right) + dfs(root.right.left);
+
+        int rst = Math.max(root.val + valRobCurrentNode, valNonCurrentNode);
+        mem.put(root, rst);
+        return rst;
+    }
+}
+```
+
