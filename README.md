@@ -1,3 +1,8 @@
+# 工作之后也要定时刷题
+> 给自己定个小目标: 每个月抽一天时间刷题，二刷《代码随想录》，可以添加《宫水三叶的刷题日记》
+
+# Archive: Before Fulltime Job
+
 # leetcode-update
 >  力扣每日一题！
 
