@@ -1,6 +1,13 @@
 # 工作之后也要定时刷题
 > 给自己定个小目标: 每个月抽一天时间刷题，二刷《代码随想录》，可以添加《宫水三叶的刷题日记》
 
+## OCT 22: 图论
+797. All Paths From Source to Target
+200. Number of Islands
+695. Max Area of Island
+1020. Number of Enclaves
+
+
 # Archive: Before Fulltime Job
 
 # leetcode-update
